@@ -197,6 +197,7 @@ const ServicePage = () => {
                 width={150}
                 alt='details category'
                 className='h-auto'
+                unoptimized
               />
             ) : (
               <Empty description='Image not available' />
